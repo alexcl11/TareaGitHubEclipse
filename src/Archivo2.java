@@ -9,7 +9,9 @@ public class Archivo2 {
 		
 		System.out.println("Tercera linea Archivo2");
 
+		System.out.println("Cuarta linea Archivo2");
 
+		
 	}
 
 }
