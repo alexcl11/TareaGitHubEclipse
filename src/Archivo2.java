@@ -12,6 +12,8 @@ public class Archivo2 {
 		System.out.println("Cuarta linea Archivo2-Rama1");
 		
 		System.out.println("Quinta linea Archivo2-Rama1");
+		
+		System.out.println("Sexta linea Archivo2-Rama1");
 
 
 
